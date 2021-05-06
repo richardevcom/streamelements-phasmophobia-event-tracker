@@ -1,4 +1,4 @@
-[![Video tutorial](https://i.ibb.co/N1SFgWj/Screenshot-1.png)
+[![Video tutorial](https://i.ibb.co/N1SFgWj/Screenshot-1.png)]
 
 # Example Commands
 | Name | Command | Action |
