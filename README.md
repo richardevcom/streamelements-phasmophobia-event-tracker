@@ -1,4 +1,4 @@
-[![Video showing how to use and edit the widget](http://img.youtube.com/vi/OIZgBi3ZI9s/0.jpg)](https://youtu.be/OIZgBi3ZI9s)
+[![Video tutorial](https://i.ibb.co/0rd4Cf2/Screenshot-1.png)](https://youtu.be/OIZgBi3ZI9s)
 
 # Example Commands
 
