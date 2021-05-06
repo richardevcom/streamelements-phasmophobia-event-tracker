@@ -1,12 +1,10 @@
-[![Video tutorial](https://i.ibb.co/0rd4Cf2/Screenshot-1.png)](https://youtu.be/OIZgBi3ZI9s)
+[![Video tutorial](https://i.ibb.co/N1SFgWj/Screenshot-1.png)
 
 # Example Commands
-
 | Name | Command | Action |
 |--|--|--|
-| Name Reset | !gr | Reset the ghost |
-| Name Reset| !gr "name" | Reset the ghost with the name |
-| Name Input | !gn "name" | Change name to "name" |
+| Name Reset | !ghostreset | Reset the ghost |
+| Name Input | !ghostname "name" | Change name to "name" |
 | Toggle EMF | !ge | Change EMF to opposite of current state |
 | Toggle Spirit Box | !gs | Change Spirit Box to opposite of current state |
 | Toggle Fingerprints | !gf | Change Fingerprints to opposite of current state |
@@ -23,7 +21,6 @@
 | Decrement the counter by 1 | !counterdown | Subtracts one from the counter number |
 
 # Optional Objectives
-
 | Objective | Possible Phrases |
 |--|--|
 | Motion Sensor | "mo" "motion" |
@@ -40,7 +37,6 @@
 | Candle | "ca" "candle" |
 
 ## Example Usage:
-
 To get `Salt Photo Event`
 
     !oo sa ph ev
@@ -56,19 +52,13 @@ To get `Smudge`
     !oo sm
 
 # How to Add to StreamElements?!?
-
 1. Create a Brand New Overlay
 2. Add a new Widget and select "Static/Custom" followed by Custom Widget
 3. Select the Widget under Layers on the left. Select Open Editor. This will give you a code screen with several tabs. DON'T BE SCARED. For each tab, delete everything that exists and paste the related content from the files listed in this folder into the editor and save.
 
-NOTE: 
-
-html -> html
-
-css -> css
-
-js -> js
-
-json -> fields
-
-data -> Input just -> { }
+## Which files represent which?!? 
+-widget.html -> html
+-widget.css -> css
+-widget.js -> js
+-fields.json -> fields
+-data.json -> data
