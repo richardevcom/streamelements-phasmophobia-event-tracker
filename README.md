@@ -1,3 +1,8 @@
+**Phasmophobia Event Tracker** (remastered)
+
+Phasmophobia Event Tracker for your Twitch stream.
+_(original author ![@GlichedMythos](https://github.com/GlitchedMythos/se-widgets))_
+
 [![Video tutorial](https://i.ibb.co/N1SFgWj/Screenshot-1.png)](https://youtu.be/OIZgBi3ZI9s)
 
 # Example Commands
@@ -57,8 +62,9 @@ To get `Smudge`
 3. Select the Widget under Layers on the left. Select Open Editor. This will give you a code screen with several tabs. DON'T BE SCARED. For each tab, delete everything that exists and paste the related content from the files listed in this folder into the editor and save.
 
 ## Which files represent which?!? 
--widget.html -> html
--widget.css -> css
--widget.js -> js
--fields.json -> fields
--data.json -> data
+* widget.html -> html
+* widget.css -> css
+* widget.js -> js
+* fields.json -> fields
+* data.json -> data
+
