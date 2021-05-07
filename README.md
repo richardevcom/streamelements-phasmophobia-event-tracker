@@ -4,6 +4,7 @@ Phasmophobia Event Tracker for your Twitch stream.
 _(original author ![@GlichedMythos](https://github.com/GlitchedMythos/se-widgets))_
 
 [![Video tutorial](https://i.ibb.co/N1SFgWj/Screenshot-1.png)](https://youtu.be/OIZgBi3ZI9s)
+![Watch Tutorial](https://youtu.be/OIZgBi3ZI9s)
 
 # Example Commands
 | Name | Command | Action |
